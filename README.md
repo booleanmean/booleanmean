@@ -1,14 +1,14 @@
 
 - 👋 Olá, eu sou @booleanmean
-- 👀 Meus interesses são bem amplos, porém, me interesso bastante por culinária, HQ's, astrofísica e, obviamente, programação. Basicamente sou um nerd com dotes culinários. 
+- 👀 Meus interesses são bem amplos, porém, me interesso bastante por culinária, HQ's, astrofísica e, obviamente, programação. Basicamente sou um nerd com dotes culinários.
 - 🌱 Atualmente estou procurando aprender mais sobre front-end, já tenho algumas habilidades com desenvolvimento em C#, C++, R e SQL. Ahhhh, sou um ratinho dentro da plataforma Azure também.
-- 💞️ Quero poder me especializar dentro da área e ajudar a comunidade a atingir novas patamares, acredito que o céu não é o limite. 
+- 💞️ Quero poder me especializar dentro da área e ajudar a comunidade a atingir novas patamares, acredito que o céu não é o limite.
 - 📫 Podem me achar fácil dentro do Insta, basta utilizar o mesmo @ ou através do meu [site](renasmonkey.me)! **Ainda em desenvolvimento**
 
 ##
 
 <picture>
-<source 
+<source
   srcset="https://github-readme-stats.vercel.app/api?username=booleanmean&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
@@ -33,6 +33,7 @@
 </div>
 
 #### Ferramentas que mais utilizo no dia a dia
+
 [![Azure](https://badgen.net/badge/icon/azure?icon=azure&label)](https://azure.microsoft.com) [![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com) [![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![.NET](https://img.shields.io/badge/--512BD4?logo=.net&logoColor=ffffff)](https://dotnet.microsoft.com/) [![Figma](https://img.shields.io/badge/--F24E1E?logo=figma&logoColor=ffffff)](https://www.figma.com/)
 
