@@ -1,9 +1,7 @@
 
 - 👋 Olá, eu sou @booleanmean
-- 👀 Meus interesses são bem amplos, porém, me interesso bastante por culinária, HQ's, astrofísica e, obviamente, programação. Basicamente sou um nerd com dotes culinários.
-- 🌱 Atualmente estou procurando aprender mais sobre front-end, já tenho algumas habilidades com desenvolvimento em C#, C++, R e SQL. Ahhhh, sou um ratinho dentro da plataforma Azure também.
-- 💞️ Quero poder me especializar dentro da área e ajudar a comunidade a atingir novas patamares, acredito que o céu não é o limite.
-- 📫 Podem me achar fácil dentro do Insta, basta utilizar o mesmo @ ou através do meu [site](renasmonkey.me)! **Ainda em desenvolvimento**
+- 👀 Atualmente sou Anlista de Segurança e me aventuro bastante no mmeio hacking e de pesquisa de vulnerabilidades
+- 🌱 Atualmente estou me preparando para a certificação em ethical hacking
 
 ##
 
